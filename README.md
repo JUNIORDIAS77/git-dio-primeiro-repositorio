@@ -1,2 +1,2 @@
 # git-dio-primeiro-repositorio
-Desafio de criação do primeiro repositório da DIO Santander
+Desafio de criação do primeiro repositório Git/Github da DIO.
